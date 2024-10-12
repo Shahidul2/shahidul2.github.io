@@ -2,6 +2,12 @@
 
 ---
 
+### Publications
+
+- [Project 1 Title](http://example.com/)
+
+---
+
 ### Projects 
 
 [Demand Forecasting for a Global Manufacturing Company](https://github.com/Shahidul2/Demand-Forecast)
@@ -36,15 +42,5 @@
     <img src="images/customer3.png?raw=true" style="width: 350px; height: auto;"/>
     <img src="images/customer4.png?raw=true" style="width: 350px; height: auto;"/>
 </div>
-
----
-
-
-### Publications
-
-- [Project 1 Title](http://example.com/)
-
-
-
 
 
