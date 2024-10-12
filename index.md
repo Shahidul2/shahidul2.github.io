@@ -22,8 +22,8 @@
 </div>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Collective Disease Classifier Using Traditional Machine Learning](https://github.com/Shahidul2/Various-Disease-Predictor)
+<img src="images/disease.png?raw=true"/>
 
 ---
 
