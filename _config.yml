@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://soundcloud.com/kukur-beji-420/tracks">Visit My SoundCloud Profile</a> 
   <br><br>
-  <a href="https://github.com/Shahidul2">View My GitHub</a> 
-  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
