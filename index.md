@@ -24,7 +24,7 @@
 ---
 [Collective Disease Classifier Using Traditional Machine Learning](https://github.com/Shahidul2/Various-Disease-Predictor)
 
-<img src="images/disease.png?raw=true"/>
+<img src="images/disease.png?raw=true" style="width: 500px; height: auto;">
 
 ---
 
