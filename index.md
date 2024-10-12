@@ -30,17 +30,18 @@
 
 [Customer Purchase Behavior Analysis from Previous Transactions](https://github.com/Shahidul2/Datathon-Customer-Behavior)
 
-<img src="images/disease.png?raw=true"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <img src="images/customer1.png?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/customer2.png?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/customer3.png?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/customer4.png?raw=true" style="width: 350px; height: auto;"/>
+</div>
 
 
 
-### Category Name 2
+### Publications
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
