@@ -5,7 +5,10 @@
 ### Projects 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/demand01.png?raw=true"/>
+<img src="images/demand02.png?raw=true"/>
+<img src="images/demand03.png?raw=true"/>
+<img src="images/demand04.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
