@@ -37,8 +37,7 @@
     <img src="images/customer4.png?raw=true" style="width: 350px; height: auto;"/>
 </div>
 
-
-
+---
 
 
 ### Publications
