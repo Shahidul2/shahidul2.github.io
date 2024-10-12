@@ -6,10 +6,10 @@
 
 [Demand Forecasting for a Global Manufacturing Company]
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="images/demand01.jpg?raw=true" style="width: 100px; height: auto;"/>
-    <img src="images/demand02.jpg?raw=true" style="width: 100px; height: auto;"/>
-    <img src="images/demand03.jpg?raw=true" style="width: 100px; height: auto;"/>
-    <img src="images/demand04.jpg?raw=true" style="width: 100px; height: auto;"/>
+    <img src="images/demand01.png?raw=true" style="width: 100px; height: auto;"/>
+    <img src="images/demand02.png?raw=true" style="width: 100px; height: auto;"/>
+    <img src="images/demand03.png?raw=true" style="width: 100px; height: auto;"/>
+    <img src="images/demand04.png?raw=true" style="width: 100px; height: auto;"/>
 </div>
 
 ---
