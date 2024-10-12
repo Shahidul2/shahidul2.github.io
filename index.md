@@ -23,11 +23,13 @@
 
 ---
 [Collective Disease Classifier Using Traditional Machine Learning](https://github.com/Shahidul2/Various-Disease-Predictor)
+
 <img src="images/disease.png?raw=true"/>
 
 ---
 
-[Customer Purchase Behavior Analysis from Previous Transactions](https://github.com/Shahidul2/Various-Disease-Predictor)
+[Customer Purchase Behavior Analysis from Previous Transactions](https://github.com/Shahidul2/Datathon-Customer-Behavior)
+
 <img src="images/disease.png?raw=true"/>
 
 
