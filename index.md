@@ -4,7 +4,7 @@
 
 ### Publications
 
-- [Project 1 Title](http://example.com/)
+- **Shahidul Islam**, S.M. Nahid Hasan, Anika Tasnim Islam, Fauzia Yasmeen, Md Rifat Hasan. **Forecasting Dengue Incidences in Bangladesh: A Univariate Time Series Approach**. 5th International Conference on Electrical and Electronics Engineering, Swinburne, Australia. Springer,2024.
 
 ---
 
