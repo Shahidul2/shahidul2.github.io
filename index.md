@@ -7,10 +7,10 @@
 [Demand Forecasting for a Global Manufacturing Company](https://github.com/Shahidul2/Demand-Forecast)
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <img src="images/demand01.png?raw=true" style="width: 250px; height: auto;"/>
-    <img src="images/demand02.png?raw=true" style="width: 250px; height: auto;"/>
-    <img src="images/demand03.png?raw=true" style="width: 250px; height: auto;"/>
-    <img src="images/demand04.png?raw=true" style="width: 250px; height: auto;"/>
+    <img src="images/demand01.png?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/demand02.png?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/demand03.png?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/demand04.png?raw=true" style="width: 350px; height: auto;"/>
 </div>
 
 ---
