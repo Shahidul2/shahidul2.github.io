@@ -18,7 +18,7 @@
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 20px;">
     <img src="images/ann01.jpg?raw=true" style="width: 350px; height: auto;"/>
-    <img src="images/ann02.jpg?raw=true" style="width: 350px; height: auto;"/>
+    <img src="images/ann02.png?raw=true" style="width: 350px; height: auto;"/>
 </div>
 
 ---
