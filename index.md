@@ -14,7 +14,7 @@
 </div>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[A Brief Comparison of Optimizers in ANN](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
