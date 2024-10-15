@@ -1,6 +1,6 @@
 ## About Me
 
-As a student of Computer Science, I’m eager to delve into the expansive field of Data Science. My goal is to participate in research and projects that have impactful results and help alleviate human burdens, even if by a tiny portion, ultimately leaving a positive footprint on this world.
+As a student of Computer Science, I’m eager to delve into the expansive field of Machine Learning and Data Science. My goal is to participate in research and projects that have impactful results and help alleviate human burdens, even if by a tiny portion, ultimately leaving a positive footprint on this world.
 
 In my leisure time, I explore Avant Garde Jazz, early German Electronica and Ambient Music. I sometimes play the acoustic guitar and you’re invited to visit my Soundcloud to listen to music from my younger days.  I also used to perform mime, drawing influence from Marcel Marceau, Buster Keaton and the Marx Brothers.
 
