@@ -12,6 +12,18 @@ As a student of Computer Science, I’m eager to delve into the expansive field 
 
 ### Projects 
 
+[Medical Instruments Classifier Using Fastai and Huggingface](https://github.com/Shahidul2/Medical-Instruments-Recognizer)
+
+<img src="images/medins.png?raw=true" style="width: 500px; height: auto;">
+
+---
+
+[Worldwide Traffic Demographic of the Year 2024](https://github.com/Shahidul2/Traffic-Demographic)
+
+<img src="images/traffic.png?raw=true" style="width: 500px; height: auto;">
+
+---
+
 [Demand Forecasting for a Global Manufacturing Company](https://github.com/Shahidul2/Demand-Forecast)
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
