@@ -14,7 +14,7 @@ As a student of Computer Science, I’m eager to delve into the expansive field 
 
 [Medical Instruments Classifier Using Fastai and Huggingface](https://github.com/Shahidul2/Medical-Instruments-Recognizer)
 
-<img src="images/medins.png?raw=true" style="width: 1000px; height: auto;">
+<img src="images/medins.png?raw=true" style="width: 500px; height: auto;">
 
 ---
 
