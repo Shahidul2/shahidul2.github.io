@@ -1,0 +1,4 @@
+h1 a {
+    color: black !important;
+    text-decoration: none; /* Optional: Removes the underline */
+}
