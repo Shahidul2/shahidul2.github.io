@@ -2,7 +2,7 @@
 
 As a student of Computer Science, I’m eager to delve into the expansive field of Machine Learning and Data Science. My goal is to participate in research and projects that have impactful results and help alleviate human burdens, even if by a tiny portion, ultimately leaving a positive footprint on this world.
 
-In my leisure I explore Ambient and Dark Jazz with past affection towards Kosmische Musik (Berlin School), 70s Prog Rock and Psychedelic scene. I sometimes play the acoustic guitar and you are most welcome to explore some of my acoustic rendition from younger days on Soundcloud. I am also an avid fan of Monty Python, Black Adder, Fawlty Towers and everything SCI-FI!
+In my leisure I explore Dark Jazz and Ambient Music with past affection towards Kosmische Musik (Berlin School), 70s Prog Rock and Psychedelic scene. I sometimes play the acoustic guitar and you are most welcome to explore some of my acoustic rendition from younger days on Soundcloud. I am also an avid fan of Monty Python, Black Adder, early British comedy and everything sci-fi!
 
 ---
 
