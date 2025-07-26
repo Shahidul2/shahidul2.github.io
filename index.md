@@ -8,8 +8,8 @@ In my leisure I explore Jazz Noir and Ambient Music with past affection towards 
 
 ### Publications
 
-- **Shahidul Islam**, S.M. Nahid Hasan, Anika Tasnim Islam, Fauzia Yasmeen, Md Rifat Hasan. **Forecasting Dengue Incidences in Bangladesh: A Univariate Time Series Approach**. 5th International Conference on Electrical and Electronics Engineering, Swinburne, Australia. Springer,2024.
-{[DOI]}(https://link.springer.com/chapter/10.1007/978-981-97-9112-5_23) {[PDF]}(https://drive.google.com/file/d/1n8IIzgAoANBKmt0qMGLyPCrldJfdAYYs/view?usp=sharing) {[Code]}(https://github.com/Shahidul2/Dengue-Forecast)
+- **Shahidul Islam**, S.M. Nahid Hasan, Anika Tasnim Islam, Fauzia Yasmeen, Md Rifat Hasan. **Forecasting Dengue Incidences in Bangladesh: A Univariate Time Series Approach**. 5th International Conference on Electrical and Electronics Engineering, Swinburne, Australia. Springer,2024. <br>
+[[DOI](https://link.springer.com/chapter/10.1007/978-981-97-9112-5_23)] [[PDF](https://drive.google.com/file/d/1n8IIzgAoANBKmt0qMGLyPCrldJfdAYYs/view?usp=sharing)] [[Code](https://github.com/Shahidul2/Dengue-Forecast)]
 
 ---
 
