@@ -15,6 +15,14 @@ In my leisure I explore Jazz Noir and Ambient Music with past affection towards 
 
 ### Projects 
 
+[Multi-Label Effects Classification of Psychoactive Drugs](https://github.com/Shahidul2/Multilabel-effects)
+
+<img src="images/effect01.png?raw=true" style="width: 500px; height: auto;">
+<img src="images/effect02.png?raw=true" style="width: 350px; height: auto;">
+<img src="images/effect03.png?raw=true" style="width: 350px; height: auto;">
+
+---
+
 [Medical Instruments Classifier Using Fastai and Huggingface](https://github.com/Shahidul2/Medical-Instruments-Recognizer)
 
 <img src="images/medins.png?raw=true" style="width: 500px; height: auto;">
