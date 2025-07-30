@@ -18,12 +18,14 @@ In my leisure I explore Jazz Noir and Ambient Music with past affection towards 
 [Multi-Label Effects Classification of Psychoactive Drugs](https://github.com/Shahidul2/Multilabel-effects)
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="images/effect01.png?raw=true" style="width: 700px; height: auto;"/>
+  <img src="images/effect01.png?raw=true" style="width: 700px; height: auto; max-width: 100%;"/>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
-    <img src="images/effect02.png?raw=true" style="width: 400px; height: auto;"/>
-    <img src="images/effect03.png?raw=true" style="width: 400px; height: auto;"/>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center; max-width: 840px; margin: 0 auto;">
+  <img src="images/effect02.png?raw=true" style="width: 400px; height: auto; max-width: 100%;"/>
+  <img src="images/effect03.png?raw=true" style="width: 400px; height: auto; max-width: 100%;"/>
+  <img src="images/effect04.png?raw=true" style="width: 400px; height: auto; max-width: 100%;"/>
+  <div style="width: 400px; height: 0;"></div> <!-- Placeholder for balance if needed -->
 </div>
 
 ---
