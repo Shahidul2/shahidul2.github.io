@@ -19,9 +19,9 @@ In my leisure I explore Jazz Noir and Ambient Music with past affection towards 
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; max-width: 720px; margin: 0 auto;">
     <img src="images/effect01.png?raw=true" style="width: 350px; height: auto; max-width: 100%;"/>
-    <img src="images/effect02.png?raw=true" style="width: 350px; height: auto; max-width: 100%;"/>
-    <img src="images/effect03.png?raw=true" style="width: 350px; height: auto; max-width: 100%;"/>
     <img src="images/effect04.png?raw=true" style="width: 350px; height: auto; max-width: 100%;"/>
+    <img src="images/effect03.png?raw=true" style="width: 350px; height: auto; max-width: 100%;"/>
+    <img src="images/effect02.png?raw=true" style="width: 350px; height: auto; max-width: 100%;"/>
 </div>
 
 ---
