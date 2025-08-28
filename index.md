@@ -8,6 +8,9 @@ In my leisure I explore Jazz Noir and Ambient Music with past affection towards 
 
 ### Publications
 
+- **Shahidul Islam**, Sakib Salam, Md Nahid Hasan. **Unsupervised Extractive Summarization of Psychedelic User Experience Reports**. medRxiv. <br>
+[[DOI](https://www.medrxiv.org/content/10.1101/2025.08.22.25334176v1)] [[PDF](https://drive.google.com/file/d/13HIof58oUNVa36NiJP1g0btRk8HEhzRg/view?usp=sharing)] [[Code](https://github.com/Shahidul2/Psychedelics-summary)]
+
 - **Shahidul Islam**, S.M. Nahid Hasan, Anika Tasnim Islam, Fauzia Yasmeen, Md Rifat Hasan. **Forecasting Dengue Incidences in Bangladesh: A Univariate Time Series Approach**. 5th International Conference on Electrical and Electronics Engineering, Swinburne, Australia. Springer,2024. <br>
 [[DOI](https://link.springer.com/chapter/10.1007/978-981-97-9112-5_23)] [[PDF](https://drive.google.com/file/d/1n8IIzgAoANBKmt0qMGLyPCrldJfdAYYs/view?usp=sharing)] [[Code](https://github.com/Shahidul2/Dengue-Forecast)]
 
