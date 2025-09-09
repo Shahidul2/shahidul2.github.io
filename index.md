@@ -2,13 +2,13 @@
 
 As a student of Computer Science, I’m eager to delve into the expansive field of Machine Learning and Data Science. My goal is to participate in research and projects that have impactful results and help alleviate human burdens, even if by a tiny portion, ultimately leaving a positive footprint on this world.
 
-In my leisure I explore Jazz Noir and Ambient Music with past affection towards Kosmische Musik (Berlin School), 70s Prog Rock and Psychedelic scene. I sometimes play the acoustic guitar and you are most welcome to explore some of my acoustic rendition from younger days on Soundcloud. I am also an avid fan of Monty Python, Black Adder, early British comedy and everything sci-fi!
+In my leisure I explore Jazz Noir and Ambient Music with past affection towards Kosmische Musik (Berlin School), 70s Prog Rock and Psychedelic scene. I sometimes play the acoustic guitar and you are most welcome to explore some of my acoustic rendition from younger days on Soundcloud. I'm a big fan of early British comedy like Monty Python and Black Adder, and I also love everything sci-fi, from Twin Peaks to The Twilight Zone. George Carlin is my spirit animal.
 
 ---
 
 ### Publications
 
-- **Shahidul Islam**, Sakib Salam, Md Nahid Hasan. **Unsupervised Extractive Summarization of Psychedelic User Experience Reports**. medRxiv. <br>
+- **Shahidul Islam**, Sakib Salam, Md Nahid Hasan. **Unsupervised Extractive Summarization of Psychedelic User Experience Reports**. medRxiv, 2025. <br>
 [[DOI](https://www.medrxiv.org/content/10.1101/2025.08.22.25334176v1)] [[PDF](https://drive.google.com/file/d/13HIof58oUNVa36NiJP1g0btRk8HEhzRg/view?usp=sharing)] [[Code](https://github.com/Shahidul2/Psychedelics-summary)]
 
 - **Shahidul Islam**, S.M. Nahid Hasan, Anika Tasnim Islam, Fauzia Yasmeen, Md Rifat Hasan. **Forecasting Dengue Incidences in Bangladesh: A Univariate Time Series Approach**. 5th International Conference on Electrical and Electronics Engineering, Swinburne, Australia. Springer,2024. <br>
